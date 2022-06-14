@@ -1,4 +1,7 @@
 # Study Guide
+
+![Business Intelligence](https://upload.wikimedia.org/wikipedia/commons/8/8e/Business-Intelligence-800x493.jpg)
+
 - Azure Fundamendals
    - AZ-203
    - AZ-204
