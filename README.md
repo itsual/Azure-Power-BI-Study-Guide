@@ -25,6 +25,8 @@ Welcome to the **Azure, Power BI, and Databricks** curated list! 🌟 This repos
 | Azure Cloud Exams            | A web based quiz application that tests your knowledge of Azure fundamentals             | [Visit](https://github.com/eduardconstantin/azure-cloud-exams) |
 | Azure AZ-900 Practice Tests         | Microsoft Azure AZ-900 (Microsoft Azure Fundamentals) Practice Tests Exams Questions & Answers           | [Visit](https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Practice-Tests-Exams-Questions-Answers) |
 | AZ-500       | Microsoft Azure Security Technologies Study Guide           | [Visit](https://github.com/AzureMentor/Azure-AZ-500-Study-Guide) |
+| AI and Machine Learning in the Cloud      | A Beginner's Guide           | [Visit](https://github.com/AzureMentor/Azure-AZ-500-Study-Guide) |
+
 ---
 
 ## Power BI Resources
@@ -40,7 +42,7 @@ Welcome to the **Azure, Power BI, and Databricks** curated list! 🌟 This repos
 | Power BI Documentation                 | Official Microsoft documentation for Power BI.              | [Visit](https://learn.microsoft.com/en-us/power-bi/) |
 | Power BI Tutorial                      | Comprehensive Power BI learning guide.                      | [Visit](https://github.com/Shivampatil412/Power-BI/tree/main) |
 | DAX Guide                              | Guide to using DAX in Power BI and other Microsoft tools.    | [Visit](https://dax.guide/) |
-| PL 300                             | GStudy guide  | [Visit](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300) |
+| PL 300                             | GStudy guide  | [Visit](https://github.com/tajpouria/ai-ml-cloud-beginners-guide) |
 
 ---
 
