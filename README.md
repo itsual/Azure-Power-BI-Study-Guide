@@ -40,6 +40,7 @@ Welcome to the **Azure, Power BI, and Databricks** curated list! 🌟 This repos
 | Power BI Documentation                 | Official Microsoft documentation for Power BI.              | [Visit](https://learn.microsoft.com/en-us/power-bi/) |
 | Power BI Tutorial                      | Comprehensive Power BI learning guide.                      | [Visit](https://github.com/Shivampatil412/Power-BI/tree/main) |
 | DAX Guide                              | Guide to using DAX in Power BI and other Microsoft tools.    | [Visit](https://dax.guide/) |
+| PL 300                             | GStudy guide  | [Visit](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300) |
 
 ---
 
@@ -51,7 +52,7 @@ Welcome to the **Azure, Power BI, and Databricks** curated list! 🌟 This repos
 | Databricks ETL                         | Guide to ETL processes in Databricks.                       | [Download](https://github.com/itsual/Azure-PowerBI-Databricks/blob/main/Databricks%20ETL.pdf) |
 | Crack Your Databricks Certification    | Certification preparation tips for Databricks.              | [Download](https://github.com/itsual/Azure-PowerBI-Databricks/blob/main/Crack_your_Databricks_Certification_1737520188.pdf) |
 | Databricks Certified Data Engineer Associate Questions | Practice questions for certification exam.         | [Visit](https://github.com/Amrit-Hub/Databricks-Certified-Data-Engineer-Associate-Questions) |
-
+| Databricks Certified Associate Developer for Apache Spark | Comprehensive Study Guide         | [Download](https://github.com/itsual/Azure-PowerBI-Databricks/blob/main/Spark%20certification%20exam%20Study%20Guide.html) |
 ---
 
 ## Contribution
