@@ -1,5 +1,3 @@
-Here are the proper links for each document in the repository:
-
 # Azure, Power BI, and Databricks Resources
 
 Welcome to the **Azure, Power BI, and Databricks** curated list! 🌟 This repository is a collection of guides, cheat sheets, study materials, and tutorials to help you excel in Azure, Power BI, and Databricks. Whether you are a beginner or an advanced user, you'll find resources tailored to your needs. 🏗️📊💡
