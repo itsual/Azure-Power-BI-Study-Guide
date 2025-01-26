@@ -20,7 +20,11 @@ Welcome to the **Azure, Power BI, and Databricks** curated list! 🌟 This repos
 | Azure Solution Architect Map           | Guide for aspiring Azure Solution Architects.               | [Download](https://github.com/itsual/Azure-PowerBI-Databricks/blob/main/Azure_Solution_Architect_Map_1659337290.pdf) |
 | MS Azure Fundamentals - AZ900 Study Guide | Detailed study guide for AZ900 exam preparation.          | [Download](https://github.com/itsual/Azure-PowerBI-Databricks/blob/main/MS%20Azure%20Fundamendals%20-%20AZ-900%20Study%20Guide.pdf) |
 | Study Guide for Exam AZ-204            | Resources for AZ-204 certification preparation.             | [Download](https://github.com/itsual/Azure-PowerBI-Databricks/blob/main/Study%20guide%20for%20Exam%20AZ-204.pdf) |
-
+| DP-203: Data Engineering on Microsoft Azure Certification Study Blueprint            | Resources for DP-203 certification preparation.             | [Visit](https://github.com/timothywarner/dp203) |
+| Microsoft Azure Fundamentals Study Guide         | Resources for AZ-900 certification preparation.             | [Visit](https://github.com/AzureMentor/Azure-AZ-900-Study-Guide) |
+| Azure Cloud Exams            | A web based quiz application that tests your knowledge of Azure fundamentals             | [Visit](https://github.com/eduardconstantin/azure-cloud-exams) |
+| Azure AZ-900 Practice Tests         | Microsoft Azure AZ-900 (Microsoft Azure Fundamentals) Practice Tests Exams Questions & Answers           | [Visit](https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Practice-Tests-Exams-Questions-Answers) |
+| AZ-500       | Microsoft Azure Security Technologies Study Guide           | [Visit](https://github.com/AzureMentor/Azure-AZ-500-Study-Guide) |
 ---
 
 ## Power BI Resources
